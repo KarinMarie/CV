@@ -2,34 +2,24 @@
 
 I'm a brazilian junior developer. I work mainly with C# and SQL Server, but I also have interest in web developing.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Certifications
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Technician in Systems' Development
+Colégio Pedro II, 2019-2022.
 
-- Bulleted
-- List
+# Basic Microsoft Excel skills
+Fundação Bradesco, 2022.
 
-1. Numbered
-2. List
+# Basic Microsoft Word skills
+Fundação Bradesco, 2022.
 
-**Bold** and _Italic_ and `Code` text
+# Basic Microsoft PowerPoint skills
+Fundação Bradesco, 2022.
 
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Interests and objectives
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KarinMarie/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I mostly work with Windows Forms, but i'm up to learn Xamarin and UWP. You can see my project looking at my repositories (https://github.com/KarinMarie?tab=repositories).
