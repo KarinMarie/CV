@@ -23,4 +23,4 @@ Fundação Bradesco, 2022.
 I mostly work with Windows Forms, but i'm up to learn Xamarin and UWP. To see my personal projects, take a look at my [repositories](https://github.com/KarinMarie?tab=repositories).
 
 ## Contact
-[My LinkedIn page](https://www.linkedin.com/in/karinmarie/)
+[My LinkedIn page](https://www.linkedin.com/in/karinmarie/).
